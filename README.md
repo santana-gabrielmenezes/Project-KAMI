@@ -7,7 +7,10 @@
 * Depósito: 1070
 * Tipo de movimentao: 201 - 202 (estorno)
 * Data de lançamento: 'Data inicial' - 'Data final'
-3. Precione botão 'Executar' ou atalho F8
+3. No campo 'Opções de exibição'
+* Selecione a opção 'Lista plena'
+* Preencha o campo 'Layout' com o texto '/MARTY1'
+4. Precione botão 'Executar' ou atalho F8
 
 ### obs¹.: caso precise inserir ou remover colunas da visualização, precione o botão 'Variante de exibição atual' ou o atalho Ctrl + F8, mova para a caixa 'Colunas exibidas' as colunas a serem exibidas e precione o botão 'Aceitar' ou o atalho Enter
 
