@@ -16,6 +16,10 @@
 
 ### obs².: para fazer o download da lista em .csv basta abrir o menu 'Lista', o sub-menu 'Exportar' e precione a opção 'Planilha eletrônica'. No campo 'Formato', selecione a opção 'File separado por vírgula (*.csv)' e precione o botão 'Exportar para...' ou o atalho Shift + F8. Selecione o diretório de destino e precione o botão 'Salvar'
 
+### obs³.: o SAP-HANA MSB permitiu a consulta de um período de 4 anos. Consultas com períodos de tempo superiores a esta não foram experimentadas.
+
+---
+
 # Procução
 
 ## Como acessar lista de produção pelo SAP
@@ -29,3 +33,5 @@
 ### obs.: caso precise remover os sub-totais da visualização basta precione o botão 'Subtotais...' ou o atalho Ctrl + Shift + F6, desmarcar as solunas com sub-totais ativos e precione o botão 'Aceitar' ou o atalho Enter
 
 ### obs².: para fazer o download da lista em .csv basta abrir o menu 'Lista', o sub-menu 'Exportar' e precione a opção 'Planilha eletrônica'. No campo 'Formato', selecione a opção 'File separado por vírgula (*.csv)' e precione o botão 'Exportar para...' ou o atalho Shift + F8. Selecione o diretório de destino e precione o botão 'Salvar'
+
+### obs³.: no SAP-HANA MSB o limite para consulta de produção é de aproximadamente 2 meses. Períodos de tempos maiores são interrompidos e a consulta não é mostrada.
